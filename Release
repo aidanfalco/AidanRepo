@@ -1,8 +1,8 @@
-Origin: Aidan Falco
+Origin: Aidan's Repo
 Label: Aidan's Repo
 Suite: stable
 Version: 1.0.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: A repo that has lots of iOS 6 tweaks.
+Description: A repo that has lots of iOS 6 tweaks created by Aidanwf.
