@@ -5,10 +5,10 @@ Maintainer: Aidan Falco
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.aidanrepo.iosappdowngrader_0.1.0-3+debug_iphoneos-arm.deb
-Size: 4812
-MD5sum: 6df28465d9e814ae93251e4d7bdfa4ca
-SHA1: da6e2c91ae5febdb84ad0d4b09a9e7129f1a3bab
-SHA256: d8f5641724e1d735c6aa9f8910f2a615040bcba1b2cf93138b3f1048d7e7f9b1
+Size: 4844
+MD5sum: 384ccfddc7ea25be1ed4d741ddeb9731
+SHA1: d379d8deb1e7556dce1a8cf8f6cea39283216821
+SHA256: e7d96555132e4fd3c8835ca0e87769532505485ef2c68243c784dbf64393a18f
 Section: Tweaks
 Description: Allows you to downgrade any app on the App Store.
 Author: Aidan Falco
