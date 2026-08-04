@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Aidan Falco
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/com.aidanrepo.iosappdowngrader_0.1.0-2+debug_iphoneos-arm.deb
+Filename: ./debs/com.aidanrepo.iosappdowngrader_0.1.0-3+debug_iphoneos-arm.deb
 Size: 4812
 MD5sum: 6df28465d9e814ae93251e4d7bdfa4ca
 SHA1: da6e2c91ae5febdb84ad0d4b09a9e7129f1a3bab
