@@ -15,6 +15,8 @@ body{
 
 /* iOS 6 Navigation Bar */
 .navbar{
+    background:-webkit-gradient(linear, left top, left bottom, from(#6d84a2), to(#2f4f7c));
+    background:-webkit-linear-gradient(#6d84a2,#2f4f7c);
     background:linear-gradient(#6d84a2,#2f4f7c);
     border-bottom:1px solid #1f3654;
     color:white;
@@ -23,6 +25,7 @@ body{
     font-size:20px;
     padding:12px;
     text-shadow:0 -1px 0 rgba(0,0,0,.6);
+    -webkit-box-shadow:inset 0 1px rgba(255,255,255,.3);
     box-shadow:inset 0 1px rgba(255,255,255,.3);
 }
 
@@ -39,6 +42,7 @@ body{
     border-radius:10px;
     border:1px solid #999;
     overflow:hidden;
+    -webkit-box-shadow:0 1px 2px rgba(0,0,0,.2);
     box-shadow:0 1px 2px rgba(0,0,0,.2);
 }
 
@@ -70,17 +74,23 @@ body{
     font-weight:bold;
     border-radius:6px;
     border:1px solid #22436b;
+
+    background:-webkit-gradient(linear, left top, left bottom, from(#6ea8ff), to(#2463b6));
+    background:-webkit-linear-gradient(#6ea8ff,#2463b6);
     background:linear-gradient(#6ea8ff,#2463b6);
+
     text-shadow:0 -1px 0 rgba(0,0,0,.5);
+    -webkit-box-shadow:
+        inset 0 1px rgba(255,255,255,.4),
+        0 1px 2px rgba(0,0,0,.2);
     box-shadow:
         inset 0 1px rgba(255,255,255,.4),
         0 1px 2px rgba(0,0,0,.2);
 }
 
-/* Centering wrapper */
+/* Centering wrapper — flexbox unsupported on iOS 6 */
 .center-btn{
-    display:flex;
-    justify-content:center;
+    text-align:center;
     margin-top:20px;
 }
 
