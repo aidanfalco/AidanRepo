@@ -1,9 +1,13 @@
 Package: com.aidanrepo.iosappdowngrader
-Name: iOS App Downgrader
-Version: 0.1.0
-Architecture: iphoneos-arm
-Description: Allows you to downgrade any app on the App Store.
-Maintainer: Aidan Falco
-Author: Aidan Falco
+Version: 0.1.0-1
 Section: Tweaks
-Depends: mobilesubstrate
+Maintainer: Aidan Falco
+Depends: firmware (>6.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.aidanrepo.iosappdowngrader_0.1.0-1+debug_iphoneos-arm
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: This package allows you to downgrade apps from the App Store.
+Name: iOS App Downgrader
+Author: Aidan Falco
+Depiction: https://pjcj8jw8n8-cloud.github.io/AidanRepo/depictions/?p=com.aidanrepo.iosappdowngrader
