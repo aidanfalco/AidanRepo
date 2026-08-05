@@ -1,0 +1,24 @@
+<package>
+    <id>com.supermamon.idowngrader</id>
+    <name>iDowngrader Beta</name>
+    <version>0.1.0-3</version>
+    <compatibility>
+        <firmware>
+            <miniOS>8.0</miniOS>
+            <maxiOS>10.0</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+            <!--
+            for otherVersions, you can put either unsupported or unconfirmed
+            -->
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>This package lets you to downgrade apps from the App Store.</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>Beta Release</change>
+    </changelog>
+    <links></links>
+</package>
