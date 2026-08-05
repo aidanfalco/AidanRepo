@@ -5,7 +5,7 @@ Maintainer: Aidan Falco
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.aidanfalco.idowngrade_0.1.0-1+debug_iphoneos-arm.deb
-Size: 4302
+Size: 4286
 MD5sum: 705ef91999d8e232e63aa0bd2ceb243a
 SHA1: 2e3d7a9d6e444ea7e4198b5298f518f4a8addaf6
 SHA256: 3e0b704fc83f217e6dca2fcb8ac320d02abcfa01434b8f79b17614656d8a9bce
