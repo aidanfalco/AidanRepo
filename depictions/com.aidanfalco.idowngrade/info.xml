@@ -1,0 +1,24 @@
+<package>
+    <id>com.aidanfalco.idowngrade</id>
+    <name>iDowngrade</name>
+    <version>1.0.0-1</version>
+    <compatibility>
+        <firmware>
+            <miniOS>6.0</miniOS>
+            <maxiOS>6.1.6</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+            <!--
+            for otherVersions, you can put either unsupported or unconfirmed
+            -->
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>This package allows you to downgrade iOS apps on iOS 6 and lower.</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>Initial release</change>
+    </changelog>
+    <links></links>
+</package>

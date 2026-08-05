@@ -1,5 +1,5 @@
-Package: com.aidanrepo.iosappdowngrader
-Version: 0.1.0-4+debug
+Package: com.aidanfalco.idowngrade
+Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: Aidan Falco
 Installed-Size: 168
@@ -12,5 +12,5 @@ SHA256: 3e0b704fc83f217e6dca2fcb8ac320d02abcfa01434b8f79b17614656d8a9bce
 Section: Tweaks
 Description: Allows you to downgrade any app on the App Store.
 Author: Aidan Falco
-Name: iOS App Downgrader
+Name: iDowngrade
 
