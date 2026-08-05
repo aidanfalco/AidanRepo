@@ -1,14 +1,14 @@
 Package: com.aidanfalco.idowngrader
-Version: 0.1.0-2+debug
+Version: 0.1.0-3+debug
 Architecture: iphoneos-arm
 Maintainer: Aidan Falco
-Installed-Size: 40
+Installed-Size: 56
 Depends: mobilesubstrate
-Filename: ./debs/com.aidanfalco.idowngrader_0.1.0-2+debug_iphoneos-arm.deb
-Size: 3096
-MD5sum: cdcc6a9b5139bd7bc0536fa4bbe8c653
-SHA1: 12e3479597f33f3384c79e84ac3a71658b6d4103
-SHA256: 5aa347f0bec3b214a22fbbda19ad3195ccbe2ceb362515a3b43ac680f2bc9555
+Filename: ./debs/com.aidanfalco.idowngrader_0.1.0-3+debug_iphoneos-arm.deb
+Size: 3688
+MD5sum: 7a9ff8eb41e4aafa151767e7e46c79ef
+SHA1: e91ff1b02cec6d30c5b6c29f60c4eb57031efb54
+SHA256: eb11f5b23f2701df08539ae88de2fdda0a9b8ccedd96e130a1ff0fab651ffb73
 Section: Tweaks
 Description: Allows you to downgrade any app on the App Store.
 Author: Aidan Falco
